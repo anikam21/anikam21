@@ -1,18 +1,15 @@
 # Hi there! 👋  
+I'm **Anika Marzia**, a software developer with a background in Electrical Engineering and experience in software engineering, automation, and DevOps.
 
-I'm Anika Marzia, a software developer with a background in Electrical Engineering and experience in software engineering, automation, and DevOps.
-
-## 🔧 Currently...  
-- Learning **AI/ML** and **embedded systems**.  
-- Passionate about **automating processes** and **home automation through IoT**.  
-
+## 🔧 Currently...
+- Learning **AI/ML** and **embedded systems**.
+- Passionate about **automating processes** and **home automation through IoT**.
 
 ## 📜 Previously...
-- 🏢 **2x Intern @ Bell Canada** – Developed **Kafka & ELK Stack** solutions for data processing, built **StackStorm automation** workflows for DevOps, and optimized cloud-based operations.  
-- 🚗 **Intern @ General Motors** – Worked on **ADAS (Advanced Driver Assistance Systems)**, focusing on **lateral movement features**, including **hands-free lane keep assist, automated steering control, and SIL (Software-in-the-Loop) testing**.  
+- 🏢 **2x Intern @ Bell Canada** – Developed **Kafka & ELK Stack** solutions for data processing, built **StackStorm automation** workflows for DevOps, and optimized cloud-based operations.
+- 🚗 **Intern @ General Motors** – Worked on **ADAS (Advanced Driver Assistance Systems)**, focusing on **lateral movement features**, including **hands-free lane keep assist, automated steering control, and SIL (Software-in-the-Loop) testing**.
 
 ## 🛠 Technical Skills
-
 ### Languages  
 <p align="left">
   <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java" height="30">
@@ -53,12 +50,8 @@ I'm Anika Marzia, a software developer with a background in Electrical Engineeri
   <img src="https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible" height="30">
 </p>
 
----
-
 ## 📍 Let's Connect!  
 <p align="left">
   <a href="https://www.linkedin.com/in/anika-marzia/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" height="30"></a>
   <a href="https://github.com/anikam21"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" height="30"></a>
 </p>
-
-
