@@ -1,12 +1,11 @@
 # Hi there! 👋  
 
-I'm **Anika Marzia**, a software developer with an **Electrical Engineering** background. I specialize in **Backend Development, DevOps, AI/ML, and Embedded Systems**, and I’m exploring **IoT technologies**, bridging hardware and software for innovative solutions.  
-
+I'm Anika Marzia, a software developer with a background in Electrical Engineering and experience in software engineering, automation, and DevOps.
 
 ## 🔧 Currently...  
-- Learning more about **AI/ML and IoT applications**.  
-- Exploring **cloud computing and DevOps automation**.  
-- Expanding my knowledge of **embedded systems**.  
+- Learning **AI/ML** and **embedded systems**.  
+- Passionate about **automating processes** and **home automation through IoT**.  
+
 
 ## 📜 Previously...
 - 🏢 **2x Intern @ Bell Canada** – Developed **Kafka & ELK Stack** solutions for data processing, built **StackStorm automation** workflows for DevOps, and optimized cloud-based operations.  
@@ -58,8 +57,8 @@ I'm **Anika Marzia**, a software developer with an **Electrical Engineering** ba
 
 ## 📍 Let's Connect!  
 <p align="left">
-  <a href="your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" height="30"></a>
-  <a href="https://github.com/anikamarzia"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" height="30"></a>
+  <a href="https://www.linkedin.com/in/anika-marzia/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" height="30"></a>
+  <a href="https://github.com/anikam21"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" height="30"></a>
 </p>
 
 
