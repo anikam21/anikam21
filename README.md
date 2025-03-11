@@ -6,8 +6,8 @@ I'm **Anika Marzia**, a software developer with a background in Electrical Engin
 - Passionate about **automating processes** and **home automation through IoT**.
 
 ## 📜 Previously...
--  **2x Intern @ Bell Canada** – Developed **Kafka & ELK Stack** solutions for data processing, built **StackStorm automation** workflows for DevOps, and optimized cloud-based operations.
--  **Intern @ General Motors** – Worked on **ADAS (Advanced Driver Assistance Systems)**, focusing on **lateral movement features**, including **hands-free lane keep assist, automated steering control, and SIL (Software-in-the-Loop) testing**.
+-  **2x Software Developer Intern @ Bell Canada** – Developed **Kafka & ELK Stack** solutions for data processing, built **StackStorm automation** workflows for DevOps, and optimized cloud-based operations.
+-  **Software Engineering Intern @ General Motors** – Worked on **ADAS (Advanced Driver Assistance Systems)**, focusing on **lateral movement features**, including **hands-free lane keep assist, automated steering control, and SIL (Software-in-the-Loop) testing**.
 
 ## 🛠 Technical Skills
 ### Languages  
